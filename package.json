@@ -1,5 +1,8 @@
 {
     "id": "jid0-TRew4ErAYBTQ3UFPwfAI5aBEvlg", 
     "description": "Remove icons from Bookmarks Toolbar.", 
-    "author": "Rob Campbell (http://antennasoft.net/robcee)"
+    "author": "Rob Campbell (http://antennasoft.net/robcee) <rob@antennasoft.net>",
+    "version": "1.0",
+    "url": "http://antennasoft.net/addons/bookmarks-deiconizer",
+    "license": "Unlicense"
 }
