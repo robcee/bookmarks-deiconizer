@@ -7,6 +7,10 @@ The Bookmarks Deiconizer addon removes these unsightly abominations from your to
 
 ## Changelog ##
 
+**v2.1** - fixed multiple windows issue at startup.
+
+**v2.0.1** - added icon
+
 **v2.0** - fixed multiple windows bug.
 
 **v1.1** - updated to work with addon-sdk version, aka Jetpack 1.0. Also updated package.json manifest to be more complete. Added documentation.
