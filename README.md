@@ -7,6 +7,8 @@ The Bookmarks Deiconizer addon removes these unsightly abominations from your to
 
 ## Changelog ##
 
+**v2.1.2** - revved maxversion
+
 **v2.1.1** - fixed problem not deiconizing on startup.
 
 **v2.1** - fixed multiple windows issue at startup.
