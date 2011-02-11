@@ -7,6 +7,10 @@ The Bookmarks Deiconizer addon removes these unsightly abominations from your to
 
 ## Changelog ##
 
+**v2.2.2** added originalMode variable
+
+**v2.2.1** added unload handler
+
 **v2.2** - fixed bookmark panel issue.
 
 **v2.1.2** - revved maxversion
